@@ -1,7 +1,5 @@
 # Awesome Sites To Test On
 
-> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | [![Actions Status](https://github.com/bmayhew/awesome-sites-to-test-on/workflows/Link%20Checker/badge.svg)](https://github.com/bmayhew/awesome-sites-to-test-on/actions)
-
 > A curated list of sites to practice testing on
 
 - [Awesome Sites To Test On](#awesome-sites-to-test-on)
